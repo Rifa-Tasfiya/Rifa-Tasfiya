@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Rifa-Tasfiya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, my name is Rifa
+#### I am an undergraduate student.
 
-<!---
-Rifa-Tasfiya/Rifa-Tasfiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ I am passionate about using technology to solve problems and am always looking for new projects and opportunities to learn and grow as a developer.
+
+Skills: Python / C / C++ / HTML / CSS
